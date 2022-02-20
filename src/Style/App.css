@@ -24,7 +24,7 @@ body {
   color: black;
 }
 
-.App {
+.App_wrapper {
   max-width: 800px;
   margin: 0 auto;
 }

@@ -1,0 +1,11 @@
+.inputGrey {
+  min-width: 100%;
+  padding: 2px 3px;
+  margin: 0px 0px 6px 0px;
+  background-color: transparent;
+  border: var(--border-grey);
+  font-family: var(--mon-ff);
+  font-size: 18px;
+  font-weight: 400;
+  color: black;
+}
